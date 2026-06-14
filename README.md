@@ -1,2 +1,1 @@
-# EntanglEd
-An innovative educational platform exploring quantum-inspired learning through entangled concepts and enhanced accessibility
+Intersecting AI, art, physics, and Web3 education. Developing an XR-driven platform for permanent, verifiable credentials. Featuring Soulbound and concept-fusion tokens to visualize your proof of knowledge. The future of decentralized learning.
